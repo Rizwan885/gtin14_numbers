@@ -1,4 +1,4 @@
-Step 1: if there is no vendor folder run "Composer install" to install pacakges defined in composer.json file. 
+Step 1: Run "Composer install" to install pacakges locked in composer.json file. 
 
 
 Step 2: In Browser open index.php.
